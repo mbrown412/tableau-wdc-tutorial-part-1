@@ -2,4 +2,3 @@
 Learning how to setup and use the Tableau Web Data Connector 
 This is my first Web Data Connector
 
-does this still work? ---- YES IT DOES
