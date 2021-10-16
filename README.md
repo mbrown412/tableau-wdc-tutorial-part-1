@@ -1,2 +1,5 @@
-# tableau-wdc-tutorial-part-1
-learning how to setup and use the Tableau Web Data Connector 
+# Tableau WEb Data Connector Tutorial Part 1.
+Learning how to setup and use the Tableau Web Data Connector 
+This is my first Web Data Connector
+
+does this still work? 

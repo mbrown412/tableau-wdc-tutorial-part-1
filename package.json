@@ -1,0 +1,12 @@
+{
+  "name": "SampleProject",
+  "version": "1.0.0",
+  "description": "This is a test sample project to get experience with Tableau Web Data Connectors",
+  "main": "index.js",
+  "repository": "https://github.com/mbrown412/tableau-wdc-tutorial-part-1",
+  "license": "MIT",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.6.0"
+  }
+}
